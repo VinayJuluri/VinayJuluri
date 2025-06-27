@@ -1,4 +1,14 @@
 - 👋 Hi, I’m @VinayJuluri
-- 🌱 I’m Computer science IT graduate with knowledge of SQL and SQL server tools. Practical experience with relational databases, Power BI, Reporting, and Analysis. 
-- 💞️ I’m looking for opportunity as a Data Analyst where I can use my skills and knowledge on real-world projects.
-- 📫 reach me at LinkedIN profile: https://www.linkedin.com/in/vinay-juluri-6b8227168
+  
+**Data Analyst | SQL Developer | Power BI Developer**
+  
+## 💻 Tech Stack
+**Data Visualization:** Power BI, Tableau, Excel (PivotTables, XLOOKUP)
+**Databases:** SQL Server, MySQL, SSRS
+**Programming:** Python (Pandas, Selenium), SQL, Excel VBA Macros
+**ETL & Data Processing:** Data Cleaning, Web Scraping, ETL Pipelines
+**Tools:** Jupyter Notebook, Git, Microsoft Office Suite
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/vinay-juluri-6b8227168)
+- 📧 vinayjuluri98@gmail.com
