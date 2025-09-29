@@ -15,4 +15,6 @@ I'm always eager to learn new technologies, enhance my skills, and contribute to
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/vinay-juluri-6b8227168)
-vinayjuluri98@gmail.com
+[Email Me] (vinayjuluri98@gmail.com)
+
+
